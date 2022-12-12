@@ -7,5 +7,7 @@ export default props =>
 subtitle="Training project using React">
     <div className='display-4'>Welcome!</div>
     <hr />
-    <p className="mb-0">Developed to train an working sign up system in React</p>
+    <p className="mb-0">Developed to 
+        train an working sign up 
+        system in React</p>
  </Main>
