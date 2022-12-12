@@ -124,7 +124,7 @@ export default class UserCrud extends Component {
                 </tbody>
             </table>
         )
-    }
+    } 
 
     renderRows() {
         return this.state.list.map(user => {
